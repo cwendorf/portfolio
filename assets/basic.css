@@ -1,0 +1,213 @@
+
+/* For All Screen Widths */
+
+/* Global Body Styles */
+
+body {
+    margin: auto;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    color: #333;
+    background: white;
+    line-height: 1.5;
+}
+.Container {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+.Content {
+    padding: 0px 10px;
+    margin: 0px auto;
+    display: block;
+}
+
+/* Title Section Styles */
+
+#TitleContainer {
+    background: #512698;
+}
+#TitleContent {
+    display: block;
+}
+#Title {
+    display: block;
+    font-weight: 1000;
+    padding: 10px 0px;
+    font-size: 32px;
+    color: rgba(255,204,46);
+}
+#TitleContent A {
+    color: rgba(255,204,46);
+    text-decoration: none;
+}
+#TitleContent A:hover {
+    color: rgba(255,224,66,.85);
+}
+
+/* Area Nav Section Styles */
+
+#AreaContainer {
+    font-weight: 1000;
+    background: rgba(255,204,46);
+}
+#AreaContent UL {
+    list-style: none;
+    margin: 0px auto;
+    padding: 0px;
+    margin-inline: 0px;
+    margin-block: 0px;
+    padding-inline: 0px;
+}
+#AreaContent LI {
+    text-align: center;
+}
+#AreaContent A {
+    color: #512698;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    font-size: 24px;
+    padding: 10px 0px;
+}
+#AreaContent A:hover {
+    color: #63449b;
+    border-bottom: 2px solid #63449b;
+}
+
+/* Main Section Styles */
+
+#MainContent H1 {
+    display: none;
+    font-size: 22px;
+    font-weight: 800;
+    margin: 20px 0px;
+    padding: 0px 0px 20px 0px;
+    color: #000;
+}
+#MainContent H2 {
+    font-size: 22px;
+    font-weight: 800;
+    margin: 20px 0px;
+    padding: 0px 0px 20px 0px;
+    border-bottom: 1px solid #000;
+    color: #000;    
+}
+#MainContent H3 {
+    font-size: 18px;
+    font-weight: 700;
+    clear: both;
+    margin: 20px 0px;
+    padding: 0px 0px 0px 0px;
+    color: #222;
+}
+#MainContent H4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    margin: 20px 0px;
+    padding: 0px;
+}
+
+#MainContent P {
+    padding: 0px;
+    margin: 0px;
+}
+
+#MainContent A {
+    text-decoration: none;
+    border-bottom: 1px dashed #512698;
+    color: #512698;
+}
+#MainContent A:hover {
+    border-bottom: 1px solid #63449b;
+    color: #63449b;
+}
+
+#MainContent H1 A {
+    border-bottom: none;
+}
+#MainContent H1 A:hover {
+    border-bottom: none;
+}
+#MainContent H2 A {
+    border-bottom: none;
+}
+#MainContent H2 A:hover {
+    border-bottom: none;
+}
+
+.table {
+  margin-left: 2em;
+}
+
+#MainContent img {
+  width: auto;
+  max-width: 95%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Main Section Column Styles */
+
+#MainContent table {
+    display: block;
+    width: 100%; 
+    overflow: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+#MainContent thead th {
+    background: #eee;
+}
+#MainContent table th, #MainContent table td {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+}
+#MainContent blockquote, #MainContent pre {
+    padding: 5px 10px;
+    color: #666;
+    border-left: 2px solid #ddd;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#MainContent pre {
+    overflow: auto;
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 2px;
+    font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+}
+#MainContent p, #MainContent blockquote, #MainContent ul, #MainContent ol, #MainContent dl, #MainContent table, #MainContent pre {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+#MainContent UL {
+    padding-inline-start: 30px;
+}
+
+/* Footer Section Styles */
+
+#FooterContainer {
+    background: #512698;
+    color: #ddd;
+    border-top: 1px solid #2a1f2f;
+    margin-top: 20px;
+}
+#FooterContent LI {
+    list-style: none;
+}
+#FooterContent UL#address {
+    font-size: 16px;
+    width: 260x;
+    padding: 10px 0px;
+    margin: 0px;
+}
+#FooterContent #address A {
+    color: #fff;
+    text-decoration: none;
+}
+#FooterContent #address A:hover {
+    color: #ffc82e;
+}
