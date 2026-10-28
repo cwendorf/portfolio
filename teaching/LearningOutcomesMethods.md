@@ -47,5 +47,3 @@ In the table below (in a format adapted from Fink, 2003), I have outlined how my
 American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
 
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
-
-University of Wisconsin – Stevens Point. (2026). *CORE General education requirements.* [https://www3.uwsp.edu/cger/Pages/default.aspx](https://www3.uwsp.edu/cger/Pages/default.aspx)
