@@ -4,13 +4,13 @@
 
 ### Online Textbooks
 
-For most of my career, I have developed online textbook materials intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. These materials currently include: a summary of basic statistical methods; instructions on obtaining basic statistical output using SPSS, jamovi, JASP, R (using base functions), EASI (an R package), and CREATE (a collection of Excel spreadsheets); annotated output showing how to calculate and interpret the output; and summaries of how the results should be reported in APA style.
+For most of my career, I have developed online textbook materials intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. The current implementation includes: a summary of basic statistical methods; instructions on using basic statistical software; annotated output showing how to interpret the output; and summaries of how the results should be reported in APA style.
 
 - [Sourcebook: Basic statistical methods for social science](https://cwendorf.github.io/Sourcebook)
 
 ### R Packages
 
-I have worked to make estimation and other approaches to statistics easier using R. Currently, this includes R packages for implementation of estimation statistics, for contrast coding within established linear models, for visualizing distributions, and more. Numerous examples, both from my online textbook above and from other textbooks and articles, are available.
+I have worked to make estimation and applied statistics easier using R. Currently, I have R packages for basic statistics calculation and visualization and for the analysis of social and cultural psychology data. For all, numerous examples are available.
 
 - [backcalc: Reconstruct missing inferential statistics](https://github.com/cwendorf/backcalc)
 - [EASI: Estimation Approach to Statistical Inference](https://github.com/cwendorf/EASI)
@@ -18,6 +18,8 @@ I have worked to make estimation and other approaches to statistics easier using
 - [polyPlot: Visualizing distributional statistics](https://github.com/cwendorf/polyPlot)
 - [CALM: Contrast Algorithms for Linear Models](https://github.com/cwendorf/CALM)
 - [simplePipes: A collection of pipe operators](https://github.com/cwendorf/simplePipes)
+- [wvsR: Cross-cultural comparisons using WVS data](https://github.com/cwendorf/wvsR)
+- [dsitR: Dynamic social impact simulator](https://github.com/cwendorf/dsitR)
 
 ### Excel Spreadsheets
 
