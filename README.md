@@ -1,6 +1,6 @@
 # [`Craig A. Wendorf`](../README.md)
 
-## Curriculum Vitae
+## Faculty Portfolio
 
 I am a Professor of Psychology and Assistant Dean of the School of Behavioral and Social Sciences at the University of Wisconsin - Stevens Point (UWSP).
 
