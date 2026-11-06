@@ -2,7 +2,7 @@
 
 ## Student Mentoring
 
-Like most of the UWSP Psychology faculty, I regularly involve students in my research. Students can become involved in any phase of a research project, from writing a research proposal and designing the study to analyzing and presenting the findings. The end-goal for a project is to present it at the College of Letters and Science Undergraduate Research Symposium.
+Like most of the UWSP Psychology faculty, I regularly involve students in my research. The end-goal for a project is to present it at the College of Letters and Science Undergraduate Research Symposium.
 
 ### Social and Cultural Psychology
 
