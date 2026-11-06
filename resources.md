@@ -16,7 +16,7 @@ Wendorf, C. A. (2025). _backcalc: Reconstructing missing inferential statistics_
 
 Wendorf, C. A. (2022). _Sourcebook: Basic statistical methods for social science_ \[Online Textbook\]. [https://cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook)
 
-Wendorf, C. A. (2022). _EASI: Estimation Approach to Statistical Inference_ \[R Package\]. [https://cwendorf.github.io/EASI](https://cwendorf.github.io/EASI)
+Wendorf, C. A. (2022). _EASI: Estimation Approach to Statistical Inference_ \[R Package\]. [https://github.com/cwendorf/EASI](https://github.com/cwendorf/EASI)
 
 Wendorf, C. A. (2022). _plotDistributions: Visualizing probability distributions_ \[R Package\]. [https://github.com/cwendorf/plotDistributions](https://github.com/cwendorf/plotDistributions)
 
