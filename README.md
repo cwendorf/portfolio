@@ -1,4 +1,4 @@
-# [`Craig A. Wendorf`](../README.md)
+# [`Craig A. Wendorf`](./README.md)
 
 ## Professional Portfolio
 
