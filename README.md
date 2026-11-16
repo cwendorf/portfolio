@@ -2,6 +2,9 @@
 
 ## Professional Portfolio
 
+> [!IMPORTANT]
+> This repository is my unofficial CV. It provides a catalog of my various teaching, research, and service contributions across my career.
+
 I am a Professor of Psychology and Assistant Dean of the School of Behavioral and Social Sciences at the University of Wisconsin - Stevens Point (UWSP).
 
 ### Professional Interests
